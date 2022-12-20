@@ -1,5 +1,5 @@
-# Projeto-BuscaCEP
- página web com funcionalidade de informar o CEP inserido pelo usuário.
+<h2 align="center">Projeto-BuscaCEP</h2><br>
+ Página web com funcionalidade de informar o CEP inserido pelo usuário.
 
 
 <hr>
