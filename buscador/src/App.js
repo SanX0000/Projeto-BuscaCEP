@@ -7,8 +7,8 @@ import api from './services/api';
 
 function App() {
 
-  const [input, setInput] = useState ('')
-
+  const [input, setInput] = useState ('');
+  const [cep, setCep] = useState({});
 
   async function handleSearch(){
      // 01310930/json/
