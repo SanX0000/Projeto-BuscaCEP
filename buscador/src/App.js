@@ -24,6 +24,7 @@ function App() {
 
     }catch{
       alert ("Ops, erro ao buscar");
+      setInput("")
     }
 
   }
