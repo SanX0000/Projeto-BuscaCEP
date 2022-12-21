@@ -20,7 +20,7 @@ function App() {
 
     try{ 
       const response = await api.get(`${input}/json`);
-      console.log(response)
+      console.log(response.data)
 
     }catch{
       alert ("Ops, erro ao buscar");
